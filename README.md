@@ -1,6 +1,5 @@
 🇺🇸 | 🇧🇷
-
-- 👋 Hi, I’m André Victor.
+## Hello world, I’m André Victor!
 - 👀 I’m interested in web development technologies.
 - 🌱 I’m currently learning web technologies and frameworks, like Spring Boot now.
 - 💞️ I’m seraching to collaborate on web projects.

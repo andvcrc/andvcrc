@@ -1,14 +1,15 @@
 🇺🇸 | 🇧🇷
 
-- 👋 Hi, I’m @andvcrc (André Victor).
+- 👋 Hi, I’m André Victor.
 - 👀 I’m interested in web development technologies.
 - 🌱 I’m currently learning web technologies and frameworks, like Spring Boot now.
 - 💞️ I’m seraching to collaborate on web projects.
-- 📫 You can reach me on Instagram, Linkedin or sending me a e-mail on form in my porftolio. All the links bellow!
+- 📫 You can reach me on Instagram, Linkedin, sending me a e-mail or message on the form in my porftolio. All the links bellow!
 
 - 🔗 Instagram: https://www.instagram.com/_andvictor/
 - 🔗 Linkedin: https://www.linkedin.com/in/andré-victor/
-- 🔗 My Portfolio: https://andvcrc.github.io
+- 🔗 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" /> My Portfolio: https://andvcrc.github.io
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="AndreVictor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

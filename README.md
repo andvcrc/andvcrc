@@ -8,7 +8,11 @@
 
 - 🔗 Instagram: https://www.instagram.com/_andvictor/
 - 🔗 Linkedin: https://www.linkedin.com/in/andré-victor/
-- 🔗 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" /> My Portfolio: https://andvcrc.github.io
+- 🔗 My Portfolio: https://andvcrc.github.io
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="AndreVictor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">My portfolio: <a href="https://andvcrc.github.io" target="_blank">      
+</div>
 
 
 <div style="display: inline_block"><br>

@@ -5,7 +5,7 @@
 - 💞️ I’m seraching to collaborate on web projects.
 - 📫 You can reach me on Instagram, Linkedin, sending me a e-mail or message on the form in my porftolio. All the links bellow!
 
-- 🔗 Instagram: https://www.instagram.com/_andvictor/
+- 🔗 Instagram: https://www.instagram.com/victcpx/
 - 🔗 Linkedin: https://www.linkedin.com/in/andré-victor/
 - 🔗 My Portfolio: https://andvcrc.github.io
 

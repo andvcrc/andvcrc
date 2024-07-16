@@ -7,7 +7,6 @@
 
 - 🔗 Instagram: https://www.instagram.com/victcpx/
 - 🔗 Linkedin: https://www.linkedin.com/in/andré-victor/
-- 🔗 My Portfolio: https://andvcrc.github.io
 
 ##
 
